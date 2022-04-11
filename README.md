@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   System E-commerce
 </h1>
@@ -65,3 +66,7 @@
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
 
 ---
+=======
+# Django-Ecommerce
+A microservice based E-commerce App architecture 
+>>>>>>> 3a7b1255c1aaa011d4441befdbdfa670bc78660d
