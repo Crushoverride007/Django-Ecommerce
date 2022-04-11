@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   System E-commerce
 </h1>
